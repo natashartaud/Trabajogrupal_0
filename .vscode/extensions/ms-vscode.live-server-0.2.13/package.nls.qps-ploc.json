@@ -1,0 +1,11 @@
+{
+	"commands.category": "£ïvë Prëvïëw",
+	"commands.startServer": "§tært §ërvër",
+	"commands.showPreview": "§høw Prëvïëw",
+	"commands.showDebugPreview": "§høw Ðëþµg Prëvïëw",
+	"commands.showPreviewExternalBrowser": "§høw Prëvïëw (Ëxtërñæl ßrøwsër)",
+	"commands.showDebugPreviewExternalBrowser": "§høw Ðëþµg Prëvïëw (Ëxtërñæl ßrøwsër)",
+	"commands.showPreviewInternalBrowser": "§høw Prëvïëw (Ïñtërñæl ßrøwsër)",
+	"commands.openAutomaticallyOnServerStart": "Øpëñ Æµtømætïçællÿ øñ §ërvër §tært",
+	"commands.stopServer": "§tøp §ërvër"
+}

@@ -1,0 +1,11 @@
+{
+	"commands.category": "Visualização Dinâmica",
+	"commands.startServer": "Iniciar Servidor",
+	"commands.showPreview": "Mostrar Versão prévia",
+	"commands.showDebugPreview": "Mostrar Visualização de Depuração",
+	"commands.showPreviewExternalBrowser": "Mostrar Versão Prévia (Navegador Externo)",
+	"commands.showDebugPreviewExternalBrowser": "Mostrar Versão prévia de Depuração (Navegador Externo)",
+	"commands.showPreviewInternalBrowser": "Mostrar versão prévia (Navegador Interno)",
+	"commands.openAutomaticallyOnServerStart": "Abrir Automaticamente ao Iniciar o Servidor",
+	"commands.stopServer": "Interromper Servidor"
+}

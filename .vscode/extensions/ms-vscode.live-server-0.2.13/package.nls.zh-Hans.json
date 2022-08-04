@@ -1,0 +1,11 @@
+{
+	"commands.category": "实时预览",
+	"commands.startServer": "启动服务器",
+	"commands.showPreview": "显示预览",
+	"commands.showDebugPreview": "显示调试预览",
+	"commands.showPreviewExternalBrowser": "显示预览(外部浏览器)",
+	"commands.showDebugPreviewExternalBrowser": "显示调试预览(外部浏览器)",
+	"commands.showPreviewInternalBrowser": "显示预览(内部浏览器)",
+	"commands.openAutomaticallyOnServerStart": "在服务器启动时自动打开",
+	"commands.stopServer": "停止服务器"
+}

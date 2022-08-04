@@ -1,0 +1,11 @@
+{
+	"commands.category": "실시간 미리 보기",
+	"commands.startServer": "서버 시작",
+	"commands.showPreview": "미리 보기 표시",
+	"commands.showDebugPreview": "디버그 표시(미리 보기)",
+	"commands.showPreviewExternalBrowser": "미리 보기 표시(외부 브라우저)",
+	"commands.showDebugPreviewExternalBrowser": "디버그 미리 보기 표시(외부 브라우저)",
+	"commands.showPreviewInternalBrowser": "미리 보기 표시(내부 브라우저)",
+	"commands.openAutomaticallyOnServerStart": "서버 시작 시 자동으로 열기",
+	"commands.stopServer": "서버 중지"
+}

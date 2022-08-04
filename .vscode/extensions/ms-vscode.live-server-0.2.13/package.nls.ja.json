@@ -1,0 +1,11 @@
+{
+	"commands.category": "ライブ プレビュー",
+	"commands.startServer": "サーバーの起動",
+	"commands.showPreview": "プレビューの表示",
+	"commands.showDebugPreview": "デバッグ プレビューの表示",
+	"commands.showPreviewExternalBrowser": "プレビューの表示 (外部ブラウザー)",
+	"commands.showDebugPreviewExternalBrowser": "デバッグ プレビューの表示 (外部ブラウザー)",
+	"commands.showPreviewInternalBrowser": "プレビューの表示 (内部ブラウザー)",
+	"commands.openAutomaticallyOnServerStart": "サーバーの起動時に自動的に開く",
+	"commands.stopServer": "サーバーの停止"
+}

@@ -1,0 +1,11 @@
+{
+	"commands.category": "Livevorschau",
+	"commands.startServer": "Server starten",
+	"commands.showPreview": "Vorschau anzeigen",
+	"commands.showDebugPreview": "Debug-Vorschau anzeigen",
+	"commands.showPreviewExternalBrowser": "Vorschau anzeigen (externer Browser)",
+	"commands.showDebugPreviewExternalBrowser": "Debug-Vorschau anzeigen (externer Browser)",
+	"commands.showPreviewInternalBrowser": "Vorschau anzeigen (Interner Browser)",
+	"commands.openAutomaticallyOnServerStart": "Automatisch beim Serverstart öffnen",
+	"commands.stopServer": "Server beenden"
+}
