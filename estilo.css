@@ -46,6 +46,10 @@ li a.active, li a:hover{
     transition: .5s;
 }
 
+body {
+    background-color: black;
+}
+
 
 
 
